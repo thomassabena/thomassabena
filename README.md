@@ -8,7 +8,7 @@ I enjoy solving problems, learning new things, and working on projects that brin
 
 A selection of my university and personal projects:
 
-- **Peer-Regularized Machine Learning on Noisy Labels:** Evaluated the CAL algorithm on noisy image classification datasets using Python and PyTorch.
+- **[Peer-Regularized Machine Learning on Noisy Labels](https://github.com/thomassabena/Noisy-Label-Learning):** Evaluated the CAL algorithm on noisy image classification datasets using Python and PyTorch.
 - **[Cyber Risk Prioritization Tool](https://github.com/sonjashk06/topic-b-risk-tool):** Contributed to the security control recommendation module for a university cybersecurity project.
 
 ### Contact
