@@ -10,6 +10,7 @@ A selection of my university and personal projects:
 
 - **[Peer-Regularized Machine Learning on Noisy Labels](https://github.com/thomassabena/Noisy-Label-Learning):** Evaluated the CAL algorithm on noisy image classification datasets using Python and PyTorch.
 - **[Cyber Risk Prioritization Tool](https://github.com/sonjashk06/topic-b-risk-tool):** Contributed to the security control recommendation module for a university cybersecurity project.
+- **[SSH Honeypot Experiment Lab](https://github.com/thomassabena/ssh-honeypot-lab):** Developing a Python-based SSH honeypot to log connection and authentication attempts, with plans to compare different server configurations.
 
 ### Contact
 
